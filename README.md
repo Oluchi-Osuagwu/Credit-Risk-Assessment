@@ -8,6 +8,7 @@ The development of this machine learning model involved these steps.
 a) Data collection: 
 •	Compiled a thorough dataset with historical credit information, including information on the borrower's credit score, payment history, employment history, debt income ratio, loan amount, liquid asset and number of credit lines. 
 •	This dataset was collected from (https://www.kaggle.com/datasets/ritayulfanii/credit-risk-dataset)
+
 b) Data Cleaning and Preprocessing: 
 •	Checked for missing values, duplicates, outliers, and handled where necessary. 
 •	Performed exploratory data analysis by examining and analyzing the data to gain insights, identify patterns, and understand the underlying structure of the dataset. 
