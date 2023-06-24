@@ -1,7 +1,7 @@
 # Credit-Risk-Assessment
 This project aims to harness the power of machine learning algorithms to provide more accurate and efficient credit risk assessments in the financial sector.
 
-Due to the kind of dataset that was gotten, I devised three strategies to predict the credit risk, supervised classification and regression method, and unsupervised clustering method. From the result, it can be observed that the Gradient Boost model performed the best for the regression method, K-means performed slightly better for the clustering method and for the classification method, while the ANN model seems to have performed better in terms of scores, the Gradient Boost is a better choice in terms of generalizability.
+Due to the kind of dataset that was gotten, I devised three strategies to predict the credit risk: supervised classification and regression method, and unsupervised clustering method. From the result, it can be observed that the Gradient Boost model performed the best for the regression method, K-means performed slightly better for the clustering method and for the classification method, while the ANN model seems to have performed better in terms of scores, the Gradient Boost is a better choice in terms of generalizability.
 
 The development of this machine learning model involved these steps. 
 
